@@ -27,7 +27,7 @@ Este proyecto surge como respuesta a una **prueba técnica** realizada en el mar
 - Visual Studio Code
 
 ## 📁 Estructura del repositorio
-├── EDA_SW.py # Script principal de análisis
+├── EDA_completed.py # Script principal de análisis
 ├── figuras/ # Visualizaciones generadas
 ├── modelo_predictivo.pkl # Modelo de Analisis de supervivencia
 ├── README.md # Descripción del proyecto
